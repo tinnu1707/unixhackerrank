@@ -1,0 +1,2 @@
+cut -f 1,2,3
+#Note here in cut command tab acts as default delimiter so no need to specify
