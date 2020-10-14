@@ -1,2 +1,2 @@
 # unixhackerrank
-Solutions for uninx hackerrank problems
+Solutions for unix hackerrank problems
