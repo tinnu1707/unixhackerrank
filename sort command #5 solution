@@ -1,0 +1,2 @@
+sort -t$'\t' -k2,2 -nr
+# here tab is the delimiter so use $'\t' for tab
