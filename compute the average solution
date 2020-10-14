@@ -1,0 +1,7 @@
+read num
+for ((i=0;i<$num;i++))
+do
+ read temp
+ sum=$(($sum+$temp))
+done
+printf "%.3f" $(bc -l<<< "$sum/$num")
